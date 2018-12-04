@@ -16,10 +16,14 @@ The web services for the above api's are exposed at following end points on azur
 2) Text to Entities : https://westus.api.cognitive.microsoft.com/text/analytics/v2.1-preview/entities
 
 User require to pass subscription keys for individial services along with required keys to get the information.
+   
+
 
 The sample Java project does the above steps & can be executed by invoking the following code
 
 java com.ms.sample.card.entity.EntityExtractManager {Image-path} {subscription-key-OCR} {subscription-key-Entities}
+    
+
 
 The resultant output looks something like :
 
