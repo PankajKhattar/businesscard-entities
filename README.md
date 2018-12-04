@@ -19,15 +19,21 @@ User require to pass subscription keys for individial services along with requir
 
 The sample Java project does the above steps & can be executed by invoking the following code
 
-java com.ms.sample.card.entity.EntityExtractManager <Image-path> <subscription-key-OCR> <subscription-key-Entities>
+java com.ms.sample.card.entity.EntityExtractManager {Image-path} {subscription-key-OCR} {subscription-key-Entities}
 
-The resultant output looks something like 
+The resultant output looks something like :
 
 Image = IMG_20181123_184344.jpg
+
 Email = Jaspal.Singh@Veeam.com
+
 Organization = Veeam Software
+
 Phone/Quantity_NumberRange = 91-9999140860
+
 Person = Jaspal Singh
+
 URL = www.veeam.com
+
 Location = New Delhi, India
 
