@@ -25,15 +25,15 @@ The resultant output looks something like :
 
 Image = IMG_20181123_184344.jpg
 
-Email = Jaspal.Singh@Veeam.com
+Email = pankaj.khattar@microsoft.com
 
-Organization = Veeam Software
+Organization = Microsoft Corporation
 
-Phone/Quantity_NumberRange = 91-9999140860
+Phone/Quantity_NumberRange = 91-9873474320
 
-Person = Jaspal Singh
+Person = Pankaj Khattar
 
-URL = www.veeam.com
+URL = www.microsoft.com
 
 Location = New Delhi, India
 
